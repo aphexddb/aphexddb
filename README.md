@@ -2,7 +2,11 @@
 
 - 🔭  I’m currently working at Square
 - 🌱  I’m currently learning how to be a better human
-- 📫  How to reach me: [twitter.com/aphexddb](https://twitter.com/aphexddb)
+- 📫  How to reach me: [twitter](https://twitter.com/aphexddb) or [linkedin](https://www.linkedin.com/in/gardiner)
+
+> The future has already arrived. It's just not evenly distributed yet. 
+
+_- William Gibson_
 
 <!--
 **aphexddb/aphexddb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
