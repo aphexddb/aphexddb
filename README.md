@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Square
-- 🌱 I’m currently learning how to be a better human
-- 📫 How to reach me: twitter.com/aphexddb
+- 🔭  I’m currently working at Square
+- 🌱  I’m currently learning how to be a better human
+- 📫  How to reach me: [twitter.com/aphexddb](https://twitter.com/aphexddb)
 
 <!--
 **aphexddb/aphexddb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
