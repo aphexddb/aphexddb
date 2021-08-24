@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working at Square
-- 🌱  I’m currently learning how to be a better human
-- 📫  How to reach me: [twitter](https://twitter.com/aphexddb) or [linkedin](https://www.linkedin.com/in/gardiner)
+- 🔭 &nbsp; I’m currently working at Square
+- 🌱 &nbsp; I’m currently learning how to be a better human
+- 📫 &nbsp; How to reach me: [twitter](https://twitter.com/aphexddb) or [linkedin](https://www.linkedin.com/in/gardiner)
 
 > The future has already arrived. It's just not evenly distributed yet. 
 
