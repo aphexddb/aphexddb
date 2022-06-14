@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 &nbsp; I’m currently working at Square
+- 🔭 &nbsp; I’m currently working at [Cash](https://cash.app)
 - 🌱 &nbsp; I’m currently learning how to be a better human
 - 📫 &nbsp; How to reach me: [twitter](https://twitter.com/aphexddb) or [linkedin](https://www.linkedin.com/in/gardiner)
 
